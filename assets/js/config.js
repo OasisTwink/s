@@ -4,15 +4,15 @@ const BADGES = [
     image: "assets/badges/hypesquad_bravery.svg",
   },
   {
-    name: "Subscriber since Apr 1, 2001",
+    name: "Subscriber since Apr 1, 2024",
     image: "assets/badges/nitro.svg",
   },
   {
-    name: "Server boosting Jun 9, 1939",
+    name: "Server boosting Jun 9, 2024",
     image: "assets/badges/boost.svg",
   },
   {
-    name: "Haii :3", // Message that appears when you hover over it
+    name: "Haii", // Message that appears when you hover over it
     image: "assets/badges/bug_hunter_level2.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
   },
 ];
