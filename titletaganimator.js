@@ -1,4 +1,4 @@
-  const originalTitle = "ht‎ ‎ tps:/‎ /ney ‎ rox‎ .lol‎ ";
+  const originalTitle = "S 3 X W A R E";
   let index = 0;
 
   function animateTitle() {
