@@ -12,12 +12,12 @@ const BADGES = [
     image: "assets/badges/boost.svg",
   },
   {
-    name: "TTVbage", // Message that appears when you hover over it
+    name: "Hai", // Message that appears when you hover over it
     image: "assets/badges/verified_bot_developer.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
   },
 ];
 
-const USER_ID = "1169111190824308768"; // Your Discord Id Here | You need to join Lanyard Discord for it to work! [https://discord.gg/z2xW3zxYdt]
+const USER_ID = "1245873601987481683"; // Your Discord Id Here | You need to join Lanyard Discord for it to work! [https://discord.gg/z2xW3zxYdt]
 const BACKGROUND_IMAGE = "assets/images/star.gif"; // Here is the background of the site, behind your profile
 const STATUS = {
   dnd: {
