@@ -329,7 +329,7 @@ canvas {
             animation: textclip 1.5s linear infinite;
     }
 
-    .fa-steam:hover {
+    .fa-youtube:hover {
       background: linear-gradient(to right, #ffffff 50%, #7b777c  5% );
             background-size: auto auto;
             background-clip: border-box;
